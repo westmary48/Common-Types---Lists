@@ -21,3 +21,4 @@ rocky_planets = slice(0, 4, 1)
 print(planet_list[rocky_planets])
 
 del planet_list[8]
+
