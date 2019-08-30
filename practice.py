@@ -71,3 +71,21 @@ del z[1:5]
 print(z)
 
 
+#map filter and reduce
+
+# add all numbers
+d = [2, 5, 6, 7, 8, 9]
+
+# def add_all(numbers_to_add):
+#     total = 0
+#     for numbers in numbers_to_add:
+#       total += numbers
+#     return total
+
+# print(numbers)
+
+sum(d)
+print(d)
+
+
+
